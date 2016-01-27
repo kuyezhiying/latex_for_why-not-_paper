@@ -1,0 +1,428 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2016.1.12)  27 JAN 2016 10:08
+entering extended mode
+**whynot.tex
+("C:\Users\huangchao\Desktop\Why-not\__why-not on sparql\whynot.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+IJCAI-16 Instructions for Authors
+("D:\Program Files\CTEX\MiKTeX\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("D:\Program Files\CTEX\MiKTeX\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\huangchao\Desktop\Why-not\__why-not on sparql\ijcai16.sty"
+Conference Style, version of 6 September 1995 (revised Nov 2010)
+\titlebox=\skip43
+Named Citation Style, version of 30 November 1994
+) ("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+("D:\Program Files\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\algorithm2e\algorithm2e.sty"
+Invalid UTF-8 byte or sequence at line 322 replaced by U+FFFD.
+Package: algorithm2e 2008/00/00 v3.10 algorithms environments
+\c@AlgoLine=\count88
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Invalid UTF-8 byte or sequence at line 778 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 780 replaced by U+FFFD.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+
+
+Package relsize Warning: Failed to get list of font sizes.
+(relsize)                Falling back to old definition. on input line 81.
+
+)
+********************************************************
+Package `algorithm2e' Release 4.01 -- december 14 2009 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip44
+\skiplinenumber=\skip45
+\skiprule=\skip46
+\skiphlne=\skip47
+\skiptext=\skip48
+\skiplength=\skip49
+\algomargin=\skip50
+\skipalgocfslide=\skip51
+\algowidth=\dimen105
+\inoutsize=\dimen106
+\inoutline=\dimen107
+\interspacetitleruled=\dimen108
+\interspacealgoruled=\dimen109
+\interspacetitleboxruled=\dimen110
+\algocf@inoutbox=\box26
+\algocf@inputbox=\box27
+\AlCapSkip=\skip52
+\AlCapHSkip=\skip53
+\algocf@nlbox=\box28
+\algocf@hangingbox=\box29
+\algocf@capbox=\box30
+\algoheightruledefault=\skip54
+\algoheightrule=\skip55
+\algotitleheightruledefault=\skip56
+\algotitleheightrule=\skip57
+\c@algocfline=\count89
+\c@algocfproc=\count90
+\c@algocf=\count91
+\algocf@algoframe=\box31
+\algocf@algobox=\box32
+Invalid UTF-8 byte or sequence at line 2420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2501 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2532 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2584 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
+) ("D:\Program Files\CTEX\MiKTeX\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen111
+)
+("D:\Program Files\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Users\huangchao\Desktop\Why-not\__why-not on sparql\whynot.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 61.
+
+("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Requested font "ptmr7t" at 10.0pt
+ -> ptmr7t
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Requested font "ptmr7t" at 14.4pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+Requested font "ptmb7t" at 14.4pt
+ -> ptmb7t
+Requested font "ptmr7t" at 12.0pt
+ -> ptmr7t
+Requested font "cmr12" at 12.0pt
+ -> cmr12
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi12" at 12.0pt
+ -> cmmi12
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy10" at 12.0pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 69.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+Requested font "ptmb7t" at 12.0pt
+ -> ptmb7t
+Requested font "ptmri7t" at 10.0pt
+ -> ptmri7t
+
+Underfull \hbox (badness 1152) in paragraph at lines 77--78
+\OT1/ptm/m/it/10 et al.\OT1/ptm/m/n/10 , 2009[], FREyA[] Daml-janovic \OT1/ptm/
+m/it/10 et al.\OT1/ptm/m/n/10 , 2010[], NLP-
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
+Requested font "ptmb7t" at 10.0pt
+ -> ptmb7t
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 83.
+Requested font "ptmr7t" at 7.0pt
+ -> ptmr7t
+Requested font "ptmr7t" at 9.0pt
+ -> ptmr7t
+Requested font "cmr9" at 9.0pt
+ -> cmr9
+Requested font "cmmi9" at 9.0pt
+ -> cmmi9
+Requested font "cmsy9" at 9.0pt
+ -> cmsy9
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 83.
+Requested font "ptmr7t" at 6.0pt
+ -> ptmr7t
+File: query.png Graphic file (type QTm)
+<use  "query.png" >
+File: query-tree.png Graphic file (type QTm)
+ <use  "query-tree.png" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+
+]
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Requested font "ptmr7t" at 10.95pt
+ -> ptmr7t
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
+Requested font "ptmb7t" at 10.95pt
+ -> ptmb7t
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+
+[2]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 138.
+
+ ("D:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 138.
+
+Underfull \hbox (badness 1077) in paragraph at lines 144--149
+\OT1/ptm/m/n/10 In this sec-tion, we pro-pose a u-ni-fied frame-work called
+ []
+
+File: framework.png Graphic file (type QTm)
+<use  "framework.png" >
+Overfull \hbox (8.916pt too wide) in paragraph at lines 150--151
+[][] 
+ []
+
+[3]
+Invalid UTF-8 byte or sequence at line 160 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 166.
+Requested font "ptmb7t" at 9.0pt
+ -> ptmb7t
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+\c@thm=\count92
+ [4]
+Invalid UTF-8 byte or sequence at line 233 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 258 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 258 replaced by U+FFFD.
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ¯ in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[][]\OT1/ptm/m/n/9 http://greententacle.techfak.uni-
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 289--290
+\OT1/ptm/m/n/10 con-struct-ed with each query at-tached with 1-3 d-if-fer-en-t
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 289--290
+\OT1/ptm/m/n/10 of miss-ing an-swer-s. Con-se-quent-ly, we ob-tain why-not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 305--316
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--317
+
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+File: run-time.png Graphic file (type QTm)
+<use  "run-time.png" >
+File: alg-cost.png Graphic file (type QTm)
+ <use  "alg-cost.png" >
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
+File: rationality.png Graphic file (type QTm)
+
+<use  "rationality.png" > [6]
+File: Qtriples.png Graphic file (type QTm)
+ <use  "Qtriples.png" >
+File: Qvariables.png Graphic file (type QTm)
+ <use  "Qvariables.png" >
+("C:\Users\huangchao\Desktop\Why-not\__why-not on sparql\whynot.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+[]\OT1/ptm/m/n/10 Adriane Chap-man and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+[]\OT1/ptm/m/n/10 Shady El-bas-suoni, Maya Ra-
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 30--33
+\OT1/ptm/m/n/10 entity-relationship search.  In \OT1/ptm/m/it/10 ESWC\OT1/ptm/m
+/n/10 , pages 62--76.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+[]\OT1/ptm/m/n/10 Melanie Her-schel and
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 53--56
+[]\OT1/ptm/m/n/10 Melanie Her-schel, Mauri-cio A H-
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 77--80
+[]\OT1/ptm/m/n/10 Md Sai-ful Is-lam, Rui Zhou, and
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 83--86
+[]\OT1/ptm/m/n/10 Md Sai-ful Is-lam, Chengfei Li-u, and
+ []
+
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+
+Underfull \hbox (badness 1231) in paragraph at lines 107--111
+[]\OT1/ptm/m/n/10 Vanessa Lopez, Vic-to-ri-a Ure-n, Mar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+[]\OT1/ptm/m/n/10 Alexandra Poulo-vas-silis
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 114--117
+\OT1/ptm/m/n/10 and Pe-ter T Wood.  Com-bin-ing ap-prox-i-ma-tion and
+ []
+
+[7]
+Underfull \hbox (badness 1394) in paragraph at lines 119--122
+[]\OT1/ptm/m/n/10 Quoc Trung Tran and Chee-Yong
+ []
+
+) [8
+
+] ("C:\Users\huangchao\Desktop\Why-not\__why-not on sparql\whynot.aux") ) 
+Here is how much of TeX's memory you used:
+ 2339 strings out of 430478
+ 28639 string characters out of 3191152
+ 110948 words of memory out of 3000000
+ 5481 multiletter control sequences out of 15000+200000
+ 13980 words of font info for 39 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 28i,18n,35p,1995b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on whynot.pdf (8 pages).
